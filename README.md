@@ -88,7 +88,9 @@ cd reddit-airflow-data-engineering
 4. Access the Airflow UI at http://localhost:8080
 
 Default credentials:
+<br>
 
 Username: airflow
+<br>
 
 Password: airflow
