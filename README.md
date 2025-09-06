@@ -43,13 +43,13 @@ The Airflow Reddit project automates the collection of Reddit posts and stores t
 ![Architecture of the project](./architecture-png.png)
 
 
-Reddit API: Source of the data.
-Apache Airflow & Celery: Orchestrates the ETL process and manages task distribution.
-PostgreSQL: Temporary storage and metadata management.
-Amazon S3: Raw data storage.
-AWS Glue: Data cataloging and ETL jobs.
-Amazon Athena: SQL-based data transformation.
-Amazon Redshift: Data warehousing and analytics. 
+- Reddit API: Source of the data.
+- Apache Airflow & Celery: Orchestrates the ETL process and manages task distribution.
+- PostgreSQL: Temporary storage and metadata management.
+- Amazon S3: Raw data storage.
+- AWS Glue: Data cataloging and ETL jobs.
+- Amazon Athena: SQL-based data transformation.
+- Amazon Redshift: Data warehousing and analytics. 
 
 ---
 
