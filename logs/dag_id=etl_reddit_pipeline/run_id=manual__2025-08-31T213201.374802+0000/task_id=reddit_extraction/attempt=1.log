@@ -1,0 +1,5 @@
+{"timestamp":"2025-08-31T21:32:01.972498","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-31T21:32:01.973938","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/reddit_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-31T21:32:02.327050Z","level":"info","event":"Connected to reddit!","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T21:32:02.328049Z","level":"info","event":"<praw.models.listing.generator.ListingGenerator object at 0x7e4b1df3c7a0>","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-31T21:32:02.252486","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
