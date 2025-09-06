@@ -13,9 +13,7 @@ This project demonstrates a **data engineering pipeline** using **Apache Airflow
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
   - [Running the Pipeline](#running-the-pipeline)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+ 
 
 ---
 
