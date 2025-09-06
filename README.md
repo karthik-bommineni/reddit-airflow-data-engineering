@@ -101,9 +101,6 @@ Password: airflow
 2. Monitor task execution in **Graph View** or **Tree View**
 3. Extracted CSV files will appear in the `data/` folder
 
-**DAG Tasks Overview:**
-
-![Airflow DAG Tasks](./etl_reddit_pipeline-graph.png)
 
 **Successful DAG Run:**
 
