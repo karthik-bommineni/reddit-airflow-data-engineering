@@ -68,7 +68,7 @@ The Airflow Reddit project automates the collection of Reddit posts and stores t
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/karthik-bommineni/reddit-airflow-data-engineering.git
 cd reddit-airflow-data-engineering
 ```
 2. Create a .env file in the project root with your Reddit API credentials:
