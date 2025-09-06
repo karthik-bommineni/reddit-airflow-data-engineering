@@ -85,12 +85,11 @@ cd reddit-airflow-data-engineering
    docker-compose up --build -d
    ```
 
-4. Access the Airflow UI at http://localhost:8080
+4. **Access the Airflow UI** at [http://localhost:8080](http://localhost:8080)
 
-Default credentials:
-<br>
+**Default credentials:**
 
+```text
 Username: airflow
-<br>
-
 Password: airflow
+```
