@@ -103,9 +103,9 @@ Password: airflow
 
 **DAG Tasks Overview:**
 
-![Airflow DAG Tasks](images/dag_tasks.png)
+![Airflow DAG Tasks](./etl_reddit_pipeline-graph.png)
 
 **Successful DAG Run:**
 
-![Successful DAG Run](images/dag_success.png)
+![Successful DAG Run](./airflow-runs-screenshot.png)
 
