@@ -93,3 +93,19 @@ cd reddit-airflow-data-engineering
 Username: airflow
 Password: airflow
 ```
+
+
+### Running the Pipeline
+
+1. In the Airflow UI, **trigger the DAG** named `reddit_etl_dag`
+2. Monitor task execution in **Graph View** or **Tree View**
+3. Extracted CSV files will appear in the `data/` folder
+
+**DAG Tasks Overview:**
+
+![Airflow DAG Tasks](images/dag_tasks.png)
+
+**Successful DAG Run:**
+
+![Successful DAG Run](images/dag_success.png)
+
